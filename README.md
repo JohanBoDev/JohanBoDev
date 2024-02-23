@@ -1,6 +1,6 @@
-<div>
-  <h1>Hola, soy JohanBoDev</h1>
-</div> 👋
+<div class="center">
+  <h1>👋 Hola, soy JohanBoDev</h1>
+</div> 
 
 <!--
 **JohanBoDev/JohanBoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

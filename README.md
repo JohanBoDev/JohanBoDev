@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hola, soy JohanBoDev</h1>
 </div> 
-<img src="![Captura de pantalla (20)](https://github.com/JohanBoDev/JohanBoDev/assets/127339175/f59f2fe1-f07c-497c-81c6-16a802e215fd)
+<img src=" i
  " >
 
 <!--

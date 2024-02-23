@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hola, soy JohanBoDev</h1>
 </div> 
-<img src="JohanBoDev/Captura de pantalla (20).png" >
+
 
 <!--
 **JohanBoDev/JohanBoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

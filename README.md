@@ -1,5 +1,6 @@
 <div align="center">
   <h1>👋 Hola, soy JohanBoDev</h1>
+  <h3>"La programación no es solo un trabajo, es una forma de pensar." - Kyle Simpson</h3>
 </div> 
 
 

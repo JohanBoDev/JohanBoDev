@@ -59,23 +59,22 @@
 <h2 align="center">📫 Connect with me</h2>
 
 <p align="center">
-Looking to convert a Figma design into a web reality? Feel free to contact me. I'm here to make your vision come alive, and I promise to bring a friendly and charismatic touch to our collaboration. Web projects are also warmly welcomed.
+Ready to turn your Figma design into a vibrant web masterpiece? Don't hesitate to reach out - I'm here to transform your vision into reality with a touch of style! Expect not just a collaboration but a lively journey where your ideas come to life with a touch of charm. We are also enthusiastically embracing interesting web projects! Let's make magic together! 🚀💻✨
 </p>
 
 <p align="center">
-Let's turn your ideas into reality!
+Let's bring your concepts to life! 🌟
 </p>
 <br />
 
 <div align = "center">
     
-[![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:melvinaguilarhdz@gmail.com)](mailto:melvinaguilarhdz@gmail.com)&nbsp;
-[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/MelvinAguilar)](https://www.frontendmentor.io/profile/MelvinAguilar)&nbsp;
-[![Linkedin: Melvin Aguilar](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melvinaguilar)](https://www.linkedin.com/in/melvinaguilar)
+[![Gmail:Johan Bohorquez](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:johanbohorquez406@gmail.com)](mailto:johanbohorquez406@gmail.com)&nbsp;
+[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/Johan270510)](https://www.frontendmentor.io/profile/Johan270510)&nbsp;
+[![Linkedin: Johan Bohorquez](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/johan-bohorquez-44341a270)](www.linkedin.com/in/johan-bohorquez-44341a270)
 <br>
-[![Linktree](https://img.shields.io/badge/-Linktree-39e09b?&style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/melvinaguilar)](https://linktr.ee/melvinaguilar)&nbsp;
-[![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=https://www.freecodecamp.org/melvinaguilar)](https://www.freecodecamp.org/melvinaguilar)&nbsp;
-[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white&link=https://codepen.io/melvinhdev)](https://codepen.io/melvinhdev)
+[![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=https://www.freecodecamp.org/JohanBohorquez)](https://www.freecodecamp.org/JohanBohorquez)&nbsp;
+
 
   
 </div>

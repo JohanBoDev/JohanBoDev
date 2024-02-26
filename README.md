@@ -4,6 +4,8 @@
 <div align="center">
 <img width="80%" src="https://github.com/JohanBoDev/JohanBoDev/blob/main/Captura%20de%20pantalla%20(20).png">
 </div>
+
+#
 <div align="center">
   <p>I am passionate about Front-End development with a fervent interest in web programming. 🕸️ My motivation lies in the aspiration to create web applications that expand fluidly and provide engaging experiences from the start. 🚀 I am continually exploring, discovering new technologies and frameworks to innovate and overcome challenges.</p>
   </div>

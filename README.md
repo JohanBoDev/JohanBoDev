@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hola, soy JohanBoDev</h1>
+  <h1>👋Hello! Welcome to my GitHub profile! I'm JohanBoDev</h1>
   <img width="100%" src="https://github.com/JohanBoDev/JohanBoDev/blob/main/Captura%20de%20pantalla%20(20).png">
   <h3>"La programación no es solo un trabajo, es una forma de pensar." - Kyle Simpson</h3>
 </div> 

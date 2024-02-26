@@ -31,7 +31,7 @@
   
 - 📫 How to reach me: <a href="mailto:johanbohorquez406@gmail.com">**johanbohorquez406@gmail.com**</a>
   
-- 📲 You can also find me on my <a href="www.linkedin.com/in/johan-bohorquez-44341a270">**LinkedIn**</a>,
+- 📲 You can also find me on my <a href="www.linkedin.com/in/johan-bohorquez-44341a270">**LinkedIn**</a>.
 
 <!--
 **JohanBoDev/JohanBoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

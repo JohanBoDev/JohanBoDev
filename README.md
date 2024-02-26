@@ -27,7 +27,7 @@
   
 - 👯 I’m open to new **opportunities** and collaborations.
   
-- 🌎 Fluent in **Spanish** and **English**.
+- 🌎 Fluent in **Español** 📖, and polishing up my **English** skills every day. 🌟
   
 - 📫 How to reach me: <a href="mailto:johanbohorquez406@gmail.com">**johanbohorquez406@gmail.com**</a>
   

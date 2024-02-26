@@ -19,9 +19,9 @@
 
 - 🗺️ I’m based in **Bogota-Colombia** .
   
-- 👨🏽‍💻 I’m a **Front-End Developer** with over a year of hands-on experience.
+- 👨🏽‍💻 I have over a year of hands-on experience as a **Front-End Developer**.
   
-- 🔭 I’m currently studying **JavaScript** and **React**.
+- 🔭 I'm currently immersed in studying **JavaScript** and **React**.
   
 - 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/Johan270510)!.
   
@@ -31,7 +31,7 @@
   
 - 📫 How to reach me: <a href="mailto:johanbohorquez406@gmail.com">**johanbohorquez406@gmail.com**</a>
   
-- 📲 You can also find me on my <a href="www.linkedin.com/in/johan-bohorquez-44341a270">**LinkedIn**</a>, <a href="https://twitter.com/danielmrz_dev">**Twitter**</a>, or <a href="https://www.instagram.com/danielmrzviolao/">**Instagram**</a>.
+- 📲 You can also find me on my <a href="www.linkedin.com/in/johan-bohorquez-44341a270">**LinkedIn**</a>,
 
 <!--
 **JohanBoDev/JohanBoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

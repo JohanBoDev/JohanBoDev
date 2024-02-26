@@ -8,7 +8,7 @@
 
 <br>
 <!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
-<img align="right" alt="GIF" src="https://github.com/danielmrz-dev/danielmrz-dev/blob/main/assets/Static%20assets.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://github.com/JohanBoDev/JohanBoDev/blob/main/Under%20construction.gif" width="320px"/>
 
 - 🗺️ I’m based in **São Paulo - Brazil**.
   

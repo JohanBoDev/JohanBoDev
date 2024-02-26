@@ -8,7 +8,7 @@
 
 <br>
 <!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
-<img align="right" alt="GIF" src="https://github.com/JohanBoDev/JohanBoDev/blob/main/Under%20construction.gif" width="320px"/>
+<img align="right" alt="GIF" src="https://github.com/JohanBoDev/JohanBoDev/blob/main/Under%20construction.gif" width="350px"/>
 
 - 🗺️ I’m based in **São Paulo - Brazil**.
   

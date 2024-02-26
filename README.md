@@ -120,7 +120,7 @@ Let's bring your concepts to life! 🌟
     
 [![Gmail:Johan Bohorquez](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:johanbohorquez406@gmail.com)](mailto:johanbohorquez406@gmail.com)&nbsp;
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/Johan270510)](https://www.frontendmentor.io/profile/Johan270510)&nbsp;
-[![Linkedin: Johan Bohorquez](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/https://www.linkedin.com/in/bohorquezjohan958)](www.linkedin.com/in/bohorquezjohan958)
+[![Linkedin: Johan Bohorquez](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/https://www.linkedin.com/in/bohorquezjohan958/)](www.linkedin.com/in/bohorquezjohan958/)
 <br>
 [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=https://www.freecodecamp.org/JohanBohorquez)](https://www.freecodecamp.org/JohanBohorquez)&nbsp;
 

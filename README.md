@@ -29,9 +29,29 @@
   
 - 🌎 Fluent in **Español** 📖, and polishing up my **English** skills every day. 🌟
   
-- 📫 How to reach me: <a href="mailto:johanbohorquez406@gmail.com">**johanbohorquez406@gmail.com**</a>
-  
-- 📲 You can also find me on my <a href="www.linkedin.com/in/johan-bohorquez-44341a270">**LinkedIn**</a>.
+
+
+<br>
+<br>
+
+## 🏆 Goals:
+
+- 🚀 I want to gain experience developing full-stack applications using **React** and **JavaScript**.
+- 🌐 Enhance my understanding of web accessibility standards and seamlessly integrate them into **my projects**.
+- 🎨 Learn new design techniques and tools to enhance my UI/UX design skills.
+
+## 🚀 Future projects:
+
+- 🌟Transmit my experience and knowledge by instructing and guiding other members within the technological community.
+- 🧠 Study the fundamentals of **Web Development** and its various subfields.
+- 🤖 Build a project that demonstrates my knowledge of **Web Development**.
+
+## 📈 Achievements
+
+- 🎉 I have successfully completed over 20 projects on Frontend Mentor and shared my code with others.
+- 🤝 I have provided feedback on projects on Frontend Mentor website.
+- 📱 I launched a small app on the PlayStore to get a taste of the mobile app development world.
+
 
 <!--
 **JohanBoDev/JohanBoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
